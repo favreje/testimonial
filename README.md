@@ -14,8 +14,6 @@ projects.
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -23,10 +21,11 @@ projects.
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
+- Note: this design is limited for the time being to mobile and desktop devices 
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/desktop-preview.jpg)
 
 ## My process
 
